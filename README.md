@@ -2,7 +2,7 @@
 
                                                       Capitulo 1 -  Blink 
                                                                                                                                  
-     En este primer capitulo aprenderemos a hacer el Hola mundo de la programacion de Arduino que es encender y apagar           
+  En este primer capitulo aprenderemos a hacer el Hola mundo de la programacion de Arduino que es encender y apagar           
   un led.                                                                                                                        
                                                                                                                                  
   Para lograr esto necesitaremos:                                                                                               
@@ -14,6 +14,10 @@
                                                                                                                                  
                                                                                                                                 
                                                                                                                                  
-                                                                                                              Facebook: ESociety 
-                                                                                                              GitHub: eSociety97                                                                                                                                  
-                                                         #NuncaDejenDeCrear                                                      
+  
+  
+  Facebook: ESociety 
+  GitHub: eSociety97                                                                                                                                  
+  
+  
+  #NuncaDejenDeCrear                                                      
